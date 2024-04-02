@@ -7,7 +7,7 @@
 https://github.com/amnalink/amnazzz
 ```
 
-列表如下
+可以域名列表如下 可依次尝试
 
 ```text
 https://dog.amnadog.com
