@@ -5,7 +5,6 @@
 ```text
 https://dog.amnadog.com
 
-
 ```text
 https://dog.amnadog.com
 
