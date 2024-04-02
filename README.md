@@ -16,10 +16,10 @@ https://dog.amnadog.com
 ```
 
 
-https://dog.amnadog.com
+https://sss.amnas.shop
 
 ```text
-https://dog.amnadog.com
+https://sss.amnas.shop
 ```
 
 
