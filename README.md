@@ -1,6 +1,6 @@
 # amnazzz
 
-[访问am](https://dog.amnadog.com)
+[访问](https://github.com/amnalink/amnazzz)
 
 ```text
 https://dog.amnadog.com
