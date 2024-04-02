@@ -1,6 +1,10 @@
 # amnazzz
 
-[访问](https://github.com/amnalink/amnazzz)
+[建议保存](https://github.com/amnalink/amnazzz)
+
+```text
+https://github.com/amnalink/amnazzz
+```
 
 ```text
 https://dog.amnadog.com
