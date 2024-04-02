@@ -1,3 +1,3 @@
 # amnazzz
 
-[访问GitHub](https://github.com)
+[访问am](https://dog.amnadog.com)
