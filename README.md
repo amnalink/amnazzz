@@ -1,4 +1,4 @@
-# amnazzz
+# amna 控制台官网
 
 [建议保存](https://github.com/amnalink/amnazzz)
  网址URL 右边按钮点击可复制
